@@ -26,3 +26,4 @@ Here are some ideas to get you started:
 - 😄 My blog address（乐亦亦乐）：https://blog.csdn.net/qq_41251963  
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiQiang0307&layout=compact">
