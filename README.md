@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: liqiang3102@gmail.com
-- 😄 My blog address：https://blog.csdn.net/qq_41251963 （乐亦亦乐）
+- 😄 My blog address（乐亦亦乐）：https://blog.csdn.net/qq_41251963  
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
