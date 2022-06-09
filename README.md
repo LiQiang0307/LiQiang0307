@@ -39,4 +39,13 @@ Here are some ideas to get you started:
 
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
-
+<table>
+  <tr>
+<td>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@f4dd176d-da02-42e2-b264-afc813ca8893/2b067d2a-e17f-486c-934c-4a5e4176ca8b.png" width=50% height=50% /></a>
+ </td>
+ <td> 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@f4dd176d-da02-42e2-b264-afc813ca8893/ccc89544-d0dc-495c-8e37-5c32b0745268.png" width=50% height=50%/></a>
+    </tr>
+   </td>
+ </table>
