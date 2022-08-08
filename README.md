@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: liqiang3102@gmail.com
 - 😄 My blog address（乐亦亦乐）：https://blog.csdn.net/qq_41251963  
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LiQiang0307&theme=default)
+
 <table>
   <tr>
     <td><a href=https://codechina.csdn.net/qq_41251963 target='_blank' style='display: block;width: 350px' border=0>
