@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: liqiang3102@gmail.com
+- 📫 How to reach me: liqiang3102@163.com
 - 😄 My blog address（乐亦亦乐）：https://blog.csdn.net/qq_41251963  
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LiQiang0307&theme=default)
