@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-    <td><a href=https://codechina.csdn.net/qq_41251963 target='_blank' style='display: block;width: 350px' border=0>
+<!--     <td><a href=https://codechina.csdn.net/qq_41251963 target='_blank' style='display: block;width: 350px' border=0>
         <img src=https://codechina.csdn.net/users/qq_41251963/-/card.svg width=350 height=120></a>
-    </td>
+    </td> -->
     <td><img src="https://github-readme-stats.vercel.app/api?username=LiQiang0307&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" / border=0>     </td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiQiang0307&layout=compact" border=0></td>
   </tr>
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
-<table>
+<!-- <table>
   <tr>
 <td>
   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@f4dd176d-da02-42e2-b264-afc813ca8893/2b067d2a-e17f-486c-934c-4a5e4176ca8b.png" width=50% height=50% /></a>
@@ -53,4 +53,4 @@ Here are some ideas to get you started:
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@f4dd176d-da02-42e2-b264-afc813ca8893/ccc89544-d0dc-495c-8e37-5c32b0745268.png" width=50% height=50%/></a>
     </tr>
    </td>
- </table>
+ </table> -->
