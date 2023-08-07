@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 😄 My blog address（乐亦亦乐）：https://blog.csdn.net/qq_41251963  
 
 [![wakatime](https://wakatime.com/badge/user/f4dd176d-da02-42e2-b264-afc813ca8893.svg)](https://wakatime.com/@f4dd176d-da02-42e2-b264-afc813ca8893)
-
+![](https://komarev.com/ghpvc/?username=LiQiang0307)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LiQiang0307&theme=default)
 
